@@ -323,7 +323,7 @@ h6,
 #portfolio-flters li {
     display: inline-block;
     font-weight: 500;
-    color: var(--primary);
+    color: #2091A1;
     cursor: pointer;
     transition: .5s;
     border-bottom: 2px solid transparent;
@@ -384,11 +384,11 @@ h6,
 
 .portfolio-inner .portfolio-text .btn {
     background: var(--light);
-    color: var(--primary);
+    color: #2091A1;
 }
 
 .portfolio-inner .portfolio-text .btn:hover {
-    background: var(--primary);
+    background: #2091A1;
     color: var(--light);
 }
 
